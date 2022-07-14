@@ -14,7 +14,7 @@ During these tutorials we highly recommend you use Python as the primary program
     3. Generate a scatterplot of the RNA versus. protein for each cell cycle stage. Fit a linear model to the data, can we infer protein concentration from RNA concentration?
 
 
-## Week 2
+## Week 2
 Continuing with the cell cycle, let's go into some deeper analysis of the functional role of the proteins and see if there are comparisons between RNA and protein.
 
 **Tasks**
